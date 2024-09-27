@@ -1,4 +1,13 @@
-## Hi there 👋
+# clacoding :)
+
+## Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/in/aanaclv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-555184?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-alves-52a4a42ba/)[![Gmail](https://img.shields.io/badge/Gmail-9997BC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclaraalves675@gmail.com)
+
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-2E3061?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-9997BC?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-28293D?style=for-the-badge&logo=javascript&logoColor=white)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clacoding&theme=transparent&bg_color=B2A6BE&border_color=28293D&show_icons=true&icon_color=28293D&title_color=28293D&text_color=FFF&hide_title=true&hide=stars)
+
 
 <!--
 **clacoding/clacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
